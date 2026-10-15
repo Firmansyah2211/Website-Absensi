@@ -1,0 +1,6 @@
+{
+  "name": "AbsensiKU - Sistem Manajemen Absensi & Rekapitulasi",
+  "description": "Aplikasi web modern untuk pencatatan absensi harian, riwayat kehadiran, statistik kehadiran visual, serta ekspor laporan Excel dan PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
